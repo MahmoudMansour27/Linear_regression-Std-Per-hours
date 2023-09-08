@@ -5,10 +5,10 @@ This GitHub repository contains Python code for a simple linear regression model
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dependencies](##dependencies)
-- [Usage](##usage)
-- [Data](##data)
-- [Results](##results)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Data](#data)
+- [Results](#results)
 
 ## Introduction
 
