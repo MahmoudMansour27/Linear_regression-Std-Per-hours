@@ -4,7 +4,7 @@ This GitHub repository contains Python code for a simple linear regression model
 
 ## Table of Contents
 
-- [Introduction](##introduction)
+- [Introduction](#introduction)
 - [Dependencies](##dependencies)
 - [Usage](##usage)
 - [Data](##data)
