@@ -57,7 +57,7 @@ After running the script, you will see a scatter plot of the data points along w
 
 * Train set visualisation
   
-  <img src="file:///home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Linear_regression-Std-Per-hours/Training%20data%20visualising.png" title="" alt="" width="442">
+  <img src="file:../Linear_regression-Std-Per-hours/Training%20data%20visualising.png" title="" alt="" width="442">
 
 * Test set visualisation
   
