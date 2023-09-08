@@ -57,7 +57,7 @@ After running the script, you will see a scatter plot of the data points along w
 
 * Train set visualisation
   
-  <img src="file:./Training data visualising.png" title="" alt="" width="442">
+  <img src="./Training data visualising.png" title="" alt="" width="442">
 
 * Test set visualisation
   
