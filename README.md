@@ -61,6 +61,6 @@ After running the script, you will see a scatter plot of the data points along w
 
 * Test set visualisation
   
-  <img title="" src="file:///home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Linear_regression-Std-Per-hours/test%20data%20visualising.png" alt="" width="439">
+  <img title="" src="./test data visualising.png" alt="" width="442">
 
 The script will also display the coefficient, intercept, and the R-squared value, which measures the goodness of fit of the model.
